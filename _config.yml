@@ -6,9 +6,9 @@ color:
   saturation: 0.8705642675049603
   rhythmicContrast: 0.40290582180023193
   brandColors:
-    - '#F6CDD3'
-    - '#FCFBF9'
-    - '#C48260'
-    - '#1D3E1F'
-    - '#906151'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: transitions
