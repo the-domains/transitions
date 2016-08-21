@@ -1,0 +1,14 @@
+layout_spectrum: 0.9864615644328296
+typography_spectrum: 0.9337801737710834
+color:
+  brandStrength: 0.2680817332584411
+  lightness: 0.7693238009233028
+  saturation: 0.8705642675049603
+  rhythmicContrast: 0.40290582180023193
+  brandColors:
+    - '#F6CDD3'
+    - '#FCFBF9'
+    - '#C48260'
+    - '#1D3E1F'
+    - '#906151'
+name: transitions
